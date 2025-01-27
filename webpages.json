@@ -1,0 +1,6 @@
+[
+    "https://www.imdb.com/title/{tconst}/",
+    "https://www.imdb.com/title/{tconst}/fullcredits/",
+    "https://www.imdb.com/title/{tconst}/parentalguide/",
+    "https://www.imdb.com/title/{tconst}/awards/"
+]
